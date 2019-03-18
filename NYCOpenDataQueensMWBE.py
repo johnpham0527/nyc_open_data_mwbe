@@ -82,3 +82,5 @@ try:
         f.write("\n\n")
 finally:
     f.close()
+
+client.close()
